@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+
+:root {
+    --white: #ffff;
+    --green: #02897A;
+    --black: #22343D;
+    --grey: lightgray;   
+    --lightcream: #eadbc8;
+    --whitecream: #FEFAF6;
+    --darkblue: #102c57;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: var(--darkblue);
+}
+
+.nav-center {
+    width: 100%;
+    box-shadow:  0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.nav-links {
+
+}
+
+.container {
+
+}
+
+.color {
+
+}
+
+.btn {
+
+}
+
+.btn-hero {
+
+}
+
+#btn {
+
+}
